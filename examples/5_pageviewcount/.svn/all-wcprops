@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/examples/5_pageviewcount
+END
+testdata
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/testdata
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/hash.h
+END
+main.cu
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/main.cu
+END
+gen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/gen.cpp
+END
+mapreduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/mapreduce.h
+END
+DS.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/DS.h
+END
+up.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/up.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/run.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/Makefile
+END
+down.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/down.sh
+END
+sort_compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/sort_compare.h
+END

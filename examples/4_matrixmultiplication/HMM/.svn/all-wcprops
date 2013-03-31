@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/examples/4_matrixmultiplication/HMM
+END
+HMMSchedulerSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMSchedulerSpec.cpp
+END
+HMMMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMMain.h
+END
+HMMCPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMCPUScheduler.h
+END
+HMMGPUScheduler.cu_onegpu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMGPUScheduler.cu_onegpu
+END
+HMMSchedulerSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMSchedulerSpec.h
+END
+HMMGPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMGPUScheduler.h
+END
+HMMGlobalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMGlobalData.h
+END
+HMMMain.cpp_onegpu
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMMain.cpp_onegpu
+END
+HMMCPUScheduler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMCPUScheduler.cxx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/README
+END
+HMMDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMDS.h
+END
+HMMGPUScheduler.cu
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMGPUScheduler.cu
+END
+HMMGlobalData.cu
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMGlobalData.cu
+END
+HMMScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMScheduler.h
+END
+HMMMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/4_matrixmultiplication/HMM/HMMMain.cpp
+END

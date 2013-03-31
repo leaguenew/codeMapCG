@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU
+END
+test.cu
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/test.cu
+END
+test_free.cu
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/test_free.cu
+END
+HMMSMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/HMMSMA.h
+END
+MA_builtin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/MA_builtin.h
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/run.sh
+END
+HMMUtilGPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/MAtest/GPU/HMMUtilGPU.h
+END

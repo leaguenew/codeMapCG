@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/8.wordcount
+END
+main.cu
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/8.wordcount/main.cu
+END
+filelist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/8.wordcount/filelist
+END
+DS.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/8.wordcount/DS.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/8.wordcount/Makefile
+END

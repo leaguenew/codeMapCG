@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/examples/3_similarityscore/HMM/GPULib
+END
+HMMScan.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMScan.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/README
+END
+HMMSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMSort.h
+END
+HMMUtilGPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMUtilGPU.h
+END
+HMMSchedulerGPU.cu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMSchedulerGPU.cu
+END
+HMMHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMHashTable.h
+END
+HMMHashTable.cu
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMHashTable.cu
+END
+HMMScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/HMMScheduler.h
+END
+HMMSMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/examples/3_similarityscore/HMM/GPULib/HMMSMA.h
+END
+DLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/GPULib/DLog.h
+END

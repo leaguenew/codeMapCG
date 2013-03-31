@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/examples/5_pageviewcount/HMM
+END
+HMMSchedulerSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMSchedulerSpec.h
+END
+HMMGlobalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMGlobalData.h
+END
+HMMGPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMGPUScheduler.h
+END
+HMMGlobalData.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMGlobalData.cu
+END
+HMMGPUScheduler.cu
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMGPUScheduler.cu
+END
+HMMScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMScheduler.h
+END
+HMMMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMMain.cpp
+END
+HMMCPUScheduler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMCPUScheduler.cxx
+END
+HMMSchedulerSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMSchedulerSpec.cpp
+END
+HMMMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMMain.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/README
+END
+HMMDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMDS.h
+END
+HMMCPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/HMMCPUScheduler.h
+END

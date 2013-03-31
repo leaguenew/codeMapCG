@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/3.similarity
+END
+similarity.cu
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/3.similarity/similarity.cu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/3.similarity/Makefile
+END
+inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/3.similarity/inc.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib
+END
+HMMHashTableCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMHashTableCPU.cxx
+END
+HMMSortCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSortCPU.h
+END
+HMMUtilCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMUtilCPU.cxx
+END
+HMMSchedulerCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSchedulerCPU.cxx
+END
+HMMHashTableCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMHashTableCPU.h
+END
+HMMSMACPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSMACPU.cxx
+END
+HMMUtilCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMUtilCPU.h
+END
+HMMSchedulerCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSchedulerCPU.h
+END
+HMMSMACPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSMACPU.h
+END
+HMMSortCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/examples/simple/HMM/CPULib/HMMSortCPU.cxx
+END

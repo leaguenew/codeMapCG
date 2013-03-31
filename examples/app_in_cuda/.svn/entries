@@ -1,0 +1,49 @@
+10
+
+dir
+4
+http://mapcg.googlecode.com/svn/trunk/examples/app_in_cuda
+http://mapcg.googlecode.com/svn
+
+
+
+2011-03-30T02:07:39.099548Z
+2
+chuntao.hong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+255ce583-6994-f314-a996-aeef52526090
+
+3.similarity
+dir
+
+8.wordcount
+dir
+
+7.nbody
+dir
+
+2.inverted
+dir
+
+1.stringmatch
+dir
+
+6.kmeans
+dir
+
+4.matrix
+dir
+

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/examples/3_similarityscore/HMM
+END
+HMMSchedulerSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMSchedulerSpec.cpp
+END
+HMMMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMMain.h
+END
+HMMCPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMCPUScheduler.h
+END
+HMMGPUScheduler.cu_onegpu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMGPUScheduler.cu_onegpu
+END
+HMMSchedulerSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMSchedulerSpec.h
+END
+HMMGPUScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMGPUScheduler.h
+END
+HMMGlobalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMGlobalData.h
+END
+HMMMain.cpp_onegpu
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMMain.cpp_onegpu
+END
+HMMCPUScheduler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMCPUScheduler.cxx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/README
+END
+HMMDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMDS.h
+END
+HMMGPUScheduler.cu
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMGPUScheduler.cu
+END
+HMMGlobalData.cu
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMGlobalData.cu
+END
+HMMScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMScheduler.h
+END
+HMMMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/examples/3_similarityscore/HMM/HMMMain.cpp
+END

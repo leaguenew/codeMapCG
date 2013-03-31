@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/HMM/UtilLib
+END
+HMMCommUtilTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/HMM/UtilLib/HMMCommUtilTemplate.h
+END
+HMMCommUtil.cu
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/HMM/UtilLib/HMMCommUtil.cu
+END
+HMMCommUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/HMM/UtilLib/HMMCommUtil.h
+END
+HMMTSQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/HMM/UtilLib/HMMTSQueue.h
+END

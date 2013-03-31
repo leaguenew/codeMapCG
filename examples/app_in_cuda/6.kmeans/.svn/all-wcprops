@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/6.kmeans
+END
+kmeans.cu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/6.kmeans/kmeans.cu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/6.kmeans/Makefile
+END
+inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/6.kmeans/inc.h
+END

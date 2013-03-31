@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/examples/5_pageviewcount/HMM/GPULib
+END
+HMMSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMSort.h
+END
+HMMUtilGPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMUtilGPU.h
+END
+HMMSchedulerGPU.cu
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMSchedulerGPU.cu
+END
+HMMHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMHashTable.h
+END
+HMMHashTable.cu
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMHashTable.cu
+END
+HMMScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMScheduler.h
+END
+HMMSMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/examples/5_pageviewcount/HMM/GPULib/HMMSMA.h
+END
+DLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/DLog.h
+END
+HMMScan.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/HMMScan.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/examples/5_pageviewcount/HMM/GPULib/README
+END

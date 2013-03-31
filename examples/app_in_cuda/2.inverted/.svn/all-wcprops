@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted
+END
+main.cu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/main.cu
+END
+mapreduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/mapreduce.h
+END
+filelist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/filelist
+END
+DS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/DS.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/Makefile
+END
+temp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/examples/app_in_cuda/2.inverted/temp.txt
+END

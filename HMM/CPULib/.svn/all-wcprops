@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/HMM/CPULib
+END
+HMMSMACPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSMACPU.h
+END
+HMMSortCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSortCPU.cxx
+END
+HMMHashTableCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMHashTableCPU.cxx
+END
+HMMSortCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSortCPU.h
+END
+HMMUtilCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMUtilCPU.cxx
+END
+HMMSchedulerCPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSchedulerCPU.cxx
+END
+HMMHashTableCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMHashTableCPU.h
+END
+HMMSMACPU.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSMACPU.cxx
+END
+HMMUtilCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMUtilCPU.h
+END
+HMMSchedulerCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/HMM/CPULib/HMMSchedulerCPU.h
+END
